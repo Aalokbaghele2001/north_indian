@@ -7,7 +7,9 @@
       "price": 129,
       "type": "Non-Vegetarian",
       "desc": "A rich, creamy curry made with marinated chicken, cooked in a buttery tomato sauce.",
-      "rating": 4.8
+      "rating": 4.8,
+       "name": "Tandoori Nights",
+      "address": "456 Park Avenue, Mumbai"
     },
     {
       "id": 2,
@@ -16,7 +18,9 @@
       "price": 109,
       "type": "Vegetarian",
       "desc": "Cubes of paneer marinated in yogurt and spices, grilled to perfection.",
-      "rating": 4.5
+      "rating": 4.5,
+      "name": "Spice Route",
+      "address": "123 Main Street, New Delhi"
     },
     {
       "id": 3,
@@ -25,7 +29,9 @@
       "price": 89,
       "type": "Vegetarian",
       "desc": "Spicy chickpea curry served with fluffy, deep-fried bread.",
-      "rating": 4.7
+      "rating": 4.7,
+      "name": "Punjabi Tadka",
+      "address": "789 Commercial Road, Chandigarh"
     },
     {
       "id": 4,
@@ -34,7 +40,9 @@
       "price": 159,
       "type": "Non-Vegetarian",
       "desc": "A fragrant lamb curry cooked with Kashmiri spices and yogurt.",
-      "rating": 4.6
+      "rating": 4.6,
+       "name": "Amritsari Delights",
+      "address": "234 MG Road, Amritsar"
     },
     {
       "id": 5,
@@ -43,7 +51,9 @@
       "price": 99,
       "type": "Vegetarian",
       "desc": "Creamy, slow-cooked black lentils enriched with butter and cream.",
-      "rating": 4.8
+      "rating": 4.8,
+       "name": "Royal Rasoi",
+      "address": "567 Brigade Road, Bangalore"
     },
     {
       "id": 6,
@@ -52,7 +62,9 @@
       "price": 79,
       "type": "Vegetarian",
       "desc": "Whole wheat bread stuffed with spiced mashed potatoes, served with yogurt and pickle.",
-      "rating": 4.7
+      "rating": 4.7,
+       "name": "Delhi Darbar",
+      "address": "890 Connaught Place, Delhi"
     },
     {
       "id": 7,
@@ -61,7 +73,9 @@
       "price": 89,
       "type": "Vegetarian",
       "desc": "Okra cooked with onions, tomatoes, and aromatic spices.",
-      "rating": 4.6
+      "rating": 4.6,
+      "name": "Lucknowi Bawarchi",
+      "address": "345 Hazratganj, Lucknow"
     },
     {
       "id": 8,
@@ -70,7 +84,9 @@
       "price": 99,
       "type": "Vegetarian",
       "desc": "Kidney beans cooked in a tomato-based gravy, seasoned with Indian spices.",
-      "rating": 4.5
+      "rating": 4.5,
+          "name": "Jaipur Spice",
+      "address": "678 Pink City Road, Jaipur"
     },
     {
       "id": 9,
@@ -79,7 +95,9 @@
       "price": 119,
       "type": "Vegetarian",
       "desc": "Cottage cheese cubes in a creamy spinach sauce, flavored with garlic and ginger.",
-      "rating": 4.6
+      "rating": 4.6,
+       "name": "Agra Palace",
+      "address": "901 Taj Ganj, Agra"
     },
     {
       "id": 10,
@@ -88,7 +106,9 @@
       "price": 169,
       "type": "Non-Vegetarian",
       "desc": "Tender mutton pieces simmered in a rich and creamy sauce made with yogurt, nuts, and spices.",
-      "rating": 4.7
+      "rating": 4.7,
+       "name": "Mughlai Dastarkhwan",
+      "address": "123 Gomti Nagar, Lucknow"
     },
     {
       "id": 11,
@@ -97,7 +117,9 @@
       "price": 139,
       "type": "Non-Vegetarian",
       "desc": "Chicken marinated in yogurt and spices, roasted in a tandoor oven.",
-      "rating": 4.8
+      "rating": 4.8,
+       "name": "Rajasthani Rangoli",
+      "address": "456 Udaipur Circle, Udaipur"
     },
     {
       "id": 12,
@@ -106,7 +128,9 @@
       "price": 129,
       "type": "Vegetarian",
       "desc": "Paneer cubes in a creamy, tomato-based butter sauce, spiced with garam masala.",
-      "rating": 4.9
+      "rating": 4.9,
+        "name": "Varanasi Vaishnavi",
+      "address": "789 Kashi Vishwanath Gali, Varanasi"
     },
     {
       "id": 13,
@@ -115,7 +139,9 @@
       "price": 149,
       "type": "Non-Vegetarian",
       "desc": "Chicken stir-fried with bell peppers and onions in a spicy tomato gravy.",
-      "rating": 4.7
+      "rating": 4.7,
+         "name": "Patiala Junction",
+      "address": "234 GT Road, Patiala"
     },
     {
       "id": 14,
@@ -124,7 +150,9 @@
       "price": 89,
       "type": "Vegetarian",
       "desc": "Smoky mashed eggplant cooked with tomatoes, onions, and spices.",
-      "rating": 4.5
+      "rating": 4.5,
+      "name": "Kashmiri Khazana",
+      "address": "567 Dal Lake View, Srinagar"
     },
     {
       "id": 15,
@@ -133,7 +161,9 @@
       "price": 119,
       "type": "Vegetarian",
       "desc": "Deep-fried vegetable balls in a rich, creamy tomato-based sauce, garnished with cream and nuts.",
-      "rating": 4.8
+      "rating": 4.8,
+       "name": "Chandigarh Chaat House",
+      "address": "890 Sector 17, Chandigarh"
     }
   ]
 }
