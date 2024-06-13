@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Butter Chicken",
-    "image": "https://example.com/butter_chicken.jpg",
+    "image": "https://images.immediate.co.uk/production/volatile/sites/30/2021/02/butter-chicken-ac2ff98.jpg?quality=90&resize=440,400",
     "price": 12.99,
     "type": "Non-Vegetarian",
     "desc": "A rich, creamy curry made with marinated chicken, cooked in a buttery tomato sauce.",
@@ -11,7 +11,7 @@
   {
     "id": 2,
     "name": "Paneer Tikka",
-    "image": "https://example.com/paneer_tikka.jpg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw_6vMWlXzhljBY1a06413i6E9kS5z7gS4FQ&s",
     "price": 10.99,
     "type": "Vegetarian",
     "desc": "Cubes of paneer marinated in yogurt and spices, grilled to perfection.",
@@ -20,7 +20,7 @@
   {
     "id": 3,
     "name": "Chole Bhature",
-    "image": "https://example.com/chole_bhature.jpg",
+    "image": "https://content.jdmagicbox.com/comp/def_content/chole-bhature-outlets/4-chole-bhature-outlets-4-1da3t.jpg",
     "price": 8.99,
     "type": "Vegetarian",
     "desc": "Spicy chickpea curry served with fluffy, deep-fried bread.",
@@ -29,7 +29,7 @@
   {
     "id": 4,
     "name": "Rogan Josh",
-    "image": "https://example.com/rogan_josh.jpg",
+    "image": "https://static.toiimg.com/thumb/53192600.cms?imgsize=418831&width=800&height=800",
     "price": 15.99,
     "type": "Non-Vegetarian",
     "desc": "A fragrant lamb curry cooked with Kashmiri spices and yogurt.",
@@ -38,7 +38,7 @@
   {
     "id": 5,
     "name": "Dal Makhani",
-    "image": "https://example.com/dal_makhani.jpg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAM_sU4h_Iz_foXrcRwo2H0NBHIgFdCv_KbA&s",
     "price": 9.49,
     "type": "Vegetarian",
     "desc": "Creamy, slow-cooked black lentils enriched with butter and cream.",
@@ -47,7 +47,7 @@
   {
     "id": 6,
     "name": "Aloo Paratha",
-    "image": "https://example.com/aloo_paratha.jpg",
+    "image": "https://static.toiimg.com/photo/53109843.cms",
     "price": 7.99,
     "type": "Vegetarian",
     "desc": "Whole wheat bread stuffed with spiced mashed potatoes, served with yogurt and pickle.",
@@ -56,7 +56,7 @@
   {
     "id": 7,
     "name": "Bhindi Masala",
-    "image": "https://example.com/bhindi_masala.jpg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4Bi7BZKTp0hYCMh_RA_XLAZua7KEa-uJJnw&s",
     "price": 8.49,
     "type": "Vegetarian",
     "desc": "Okra cooked with onions, tomatoes, and aromatic spices.",
@@ -65,7 +65,7 @@
   {
     "id": 8,
     "name": "Rajma Masala",
-    "image": "https://example.com/rajma_masala.jpg",
+    "image": "https://www.cubesnjuliennes.com/wp-content/uploads/2020/06/Authentic-Punjabi-Rajma-Recipe.jpg",
     "price": 9.99,
     "type": "Vegetarian",
     "desc": "Kidney beans cooked in a tomato-based gravy, seasoned with Indian spices.",
@@ -74,7 +74,7 @@
   {
     "id": 9,
     "name": "Palak Paneer",
-    "image": "https://example.com/palak_paneer.jpg",
+    "image": "https://healthynibblesandbits.com/wp-content/uploads/2020/01/Saag-Paneer-FF.jpg",
     "price": 11.49,
     "type": "Vegetarian",
     "desc": "Cottage cheese cubes in a creamy spinach sauce, flavored with garlic and ginger.",
@@ -83,7 +83,7 @@
   {
     "id": 10,
     "name": "Mutton Korma",
-    "image": "https://example.com/mutton_korma.jpg",
+    "image": "https://static.toiimg.com/thumb/52554168.cms?imgsize=572669&width=800&height=800",
     "price": 16.49,
     "type": "Non-Vegetarian",
     "desc": "Tender mutton pieces simmered in a rich and creamy sauce made with yogurt, nuts, and spices.",
@@ -92,7 +92,7 @@
   {
     "id": 11,
     "name": "Tandoori Chicken",
-    "image": "https://example.com/tandoori_chicken.jpg",
+    "image": "https://www.easycookingwithmolly.com/wp-content/uploads/2023/11/air-fryer-whole-tandoori-chicken-3-480x480.jpg",
     "price": 13.49,
     "type": "Non-Vegetarian",
     "desc": "Chicken marinated in yogurt and spices, roasted in a tandoor oven.",
@@ -101,7 +101,7 @@
   {
     "id": 12,
     "name": "Paneer Butter Masala",
-    "image": "https://example.com/paneer_butter_masala.jpg",
+    "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2020/01/paneer-butter-masala-5.jpg",
     "price": 12.49,
     "type": "Vegetarian",
     "desc": "Paneer cubes in a creamy, tomato-based butter sauce, spiced with garam masala.",
@@ -110,7 +110,7 @@
   {
     "id": 13,
     "name": "Kadai Chicken",
-    "image": "https://example.com/kadai_chicken.jpg",
+    "image": "https://static.toiimg.com/thumb/53523514.cms?imgsize=102389&width=800&height=800",
     "price": 14.99,
     "type": "Non-Vegetarian",
     "desc": "Chicken stir-fried with bell peppers and onions in a spicy tomato gravy.",
@@ -119,7 +119,7 @@
   {
     "id": 14,
     "name": "Baingan Bharta",
-    "image": "https://example.com/baingan_bharta.jpg",
+    "image": "https://www.cookwithmanali.com/wp-content/uploads/2014/08/Baingan-Bharta.jpg",
     "price": 8.99,
     "type": "Vegetarian",
     "desc": "Smoky mashed eggplant cooked with tomatoes, onions, and spices.",
@@ -127,12 +127,12 @@
   },
   {
     "id": 15,
-    "name": "Gulab Jamun",
-    "image": "https://example.com/gulab_jamun.jpg",
-    "price": 6.49,
+    "name": "Malai Kofta",
+    "image": "https://carveyourcraving.com/wp-content/uploads/2021/09/Best-Malai-Kofta-recipe-500x500.jpg",
+    "price": 11.99,
     "type": "Vegetarian",
-    "desc": "Deep-fried dough balls soaked in a sweet, fragrant sugar syrup flavored with rose water.",
-    "rating": 4.9
+    "desc": "Deep-fried vegetable balls in a rich, creamy tomato-based sauce, garnished with cream and nuts.",
+    "rating": 4.8
   }
 ]
 }
