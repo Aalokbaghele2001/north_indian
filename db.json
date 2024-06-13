@@ -1,245 +1,263 @@
 {
   "north_indian": [
-    {
-      "id": 1,
-      "dish": "Butter Chicken",
-      "image": "https://images.immediate.co.uk/production/volatile/sites/30/2021/02/butter-chicken-ac2ff98.jpg?quality=90&resize=440,400",
-      "price": 129,
-      "type": "Non-Vegetarian",
-      "desc": "A rich, creamy curry made with marinated chicken, cooked in a buttery tomato sauce.",
-      "rating": 4.8,
-      "restaurant": {
-        "name": "Spice Route",
-        "address": "123 Main Street, New Delhi",
-        "timing": "12:00 PM - 10:00 PM",
-        "offers": "20% off on Tuesdays",
-        "rating": 4.7
-      }
-    },
-    {
-      "id": 2,
-      "dish": "Paneer Tikka",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw_6vMWlXzhljBY1a06413i6E9kS5z7gS4FQ&s",
-      "price": 109,
-      "type": "Vegetarian",
-      "desc": "Cubes of paneer marinated in yogurt and spices, grilled to perfection.",
-      "rating": 4.5,
-      "restaurant": {
-        "name": "Tandoori Nights",
-        "address": "456 Park Avenue, Mumbai",
-        "timing": "11:30 AM - 11:00 PM",
-        "offers": "Free dessert on orders over Rs. 500",
-        "rating": 4.6
-      }
-    },
-    {
-      "id": 3,
-      "dish": "Chole Bhature",
-      "image": "https://content.jdmagicbox.com/comp/def_content/chole-bhature-outlets/4-chole-bhature-outlets-4-1da3t.jpg",
-      "price": 89,
-      "type": "Vegetarian",
-      "desc": "Spicy chickpea curry served with fluffy, deep-fried bread.",
+     {
+    "id": 1,
+    "dish": "Butter Chicken",
+    "image": "https://images.immediate.co.uk/production/volatile/sites/30/2021/02/butter-chicken-ac2ff98.jpg?quality=90&resize=440,400",
+    "price": 129,
+    "type": "Non-Vegetarian",
+    "desc": "A rich, creamy curry made with marinated chicken, cooked in a buttery tomato sauce.",
+    "rating": 4.8,
+    "restaurant": {
+      "name": "Spice Route",
+      "address": "123 Main Street, New Delhi",
+      "timing": "12:00 PM - 10:00 PM",
+      "offers": "20% off on Tuesdays",
       "rating": 4.7,
-      "restaurant": {
-        "name": "Punjabi Tadka",
-        "address": "789 Commercial Road, Chandigarh",
-        "timing": "10:00 AM - 9:30 PM",
-        "offers": "10% off for first-time visitors",
-        "rating": 4.8
-      }
-    },
-    {
-      "id": 4,
-      "dish": "Rogan Josh",
-      "image": "https://static.toiimg.com/thumb/53192600.cms?imgsize=418831&width=800&height=800",
-      "price": 159,
-      "type": "Non-Vegetarian",
-      "desc": "A fragrant lamb curry cooked with Kashmiri spices and yogurt.",
-      "rating": 4.6,
-      "restaurant": {
-        "name": "Amritsari Delights",
-        "address": "234 MG Road, Amritsar",
-        "timing": "11:00 AM - 10:30 PM",
-        "offers": "Happy Hour: 2:00 PM - 4:00 PM, Buy 1 Get 1 Free",
-        "rating": 4.5
-      }
-    },
-    {
-      "id": 5,
-      "dish": "Dal Makhani",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAM_sU4h_Iz_foXrcRwo2H0NBHIgFdCv_KbA&s",
-      "price": 99,
-      "type": "Vegetarian",
-      "desc": "Creamy, slow-cooked black lentils enriched with butter and cream.",
-      "rating": 4.8,
-      "restaurant": {
-        "name": "Royal Rasoi",
-        "address": "567 Brigade Road, Bangalore",
-        "timing": "12:30 PM - 11:00 PM",
-        "offers": "Lunch buffet at Rs. 399",
-        "rating": 4.9
-      }
-    },
-    {
-      "id": 6,
-      "dish": "Aloo Paratha",
-      "image": "https://static.toiimg.com/photo/53109843.cms",
-      "price": 79,
-      "type": "Vegetarian",
-      "desc": "Whole wheat bread stuffed with spiced mashed potatoes, served with yogurt and pickle.",
-      "rating": 4.7,
-      "restaurant": {
-        "name": "Delhi Darbar",
-        "address": "890 Connaught Place, Delhi",
-        "timing": "9:00 AM - 10:00 PM",
-        "offers": "Weekend brunch specials",
-        "rating": 4.7
-      }
-    },
-    {
-      "id": 7,
-      "dish": "Bhindi Masala",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7Fdg9QfZ6crD89IDuZCWQeVuv8DPyG6FsEA&s",
-      "price": 89,
-      "type": "Vegetarian",
-      "desc": "Okra cooked with onions, tomatoes, and aromatic spices.",
-      "rating": 4.6,
-      "restaurant": {
-        "name": "Lucknowi Bawarchi",
-        "address": "345 Hazratganj, Lucknow",
-        "timing": "11:00 AM - 10:30 PM",
-        "offers": "15% off on weekdays",
-        "rating": 4.6
-      }
-    },
-    {
-      "id": 8,
-      "dish": "Rajma Masala",
-      "image": "https://www.cubesnjuliennes.com/wp-content/uploads/2020/06/Authentic-Punjabi-Rajma-Recipe.jpg",
-      "price": 99,
-      "type": "Vegetarian",
-      "desc": "Kidney beans cooked in a tomato-based gravy, seasoned with Indian spices.",
-      "rating": 4.5,
-      "restaurant": {
-        "name": "Jaipur Spice",
-        "address": "678 Pink City Road, Jaipur",
-        "timing": "11:30 AM - 11:00 PM",
-        "offers": "Chef's special thali",
-        "rating": 4.5
-      }
-    },
-    {
-      "id": 9,
-      "dish": "Palak Paneer",
-      "image": "https://healthynibblesandbits.com/wp-content/uploads/2020/01/Saag-Paneer-FF.jpg",
-      "price": 119,
-      "type": "Vegetarian",
-      "desc": "Cottage cheese cubes in a creamy spinach sauce, flavored with garlic and ginger.",
-      "rating": 4.6,
-      "restaurant": {
-        "name": "Agra Palace",
-        "address": "901 Taj Ganj, Agra",
-        "timing": "10:00 AM - 9:30 PM",
-        "offers": "Buy 2 main courses, get 1 free appetizer",
-        "rating": 4.7
-      }
-    },
-    {
-      "id": 10,
-      "dish": "Mutton Korma",
-      "image": "https://static.toiimg.com/thumb/52554168.cms?imgsize=572669&width=800&height=800",
-      "price": 169,
-      "type": "Non-Vegetarian",
-      "desc": "Tender mutton pieces simmered in a rich and creamy sauce made with yogurt, nuts, and spices.",
-      "rating": 4.7,
-      "restaurant": {
-        "name": "Mughlai Dastarkhwan",
-        "address": "123 Gomti Nagar, Lucknow",
-        "timing": "12:00 PM - 10:30 PM",
-        "offers": "10% off on online orders",
-        "rating": 4.8
-      }
-    },
-    {
-      "id": 11,
-      "dish": "Tandoori Chicken",
-      "image": "https://www.easycookingwithmolly.com/wp-content/uploads/2023/11/air-fryer-whole-tandoori-chicken-3-480x480.jpg",
-      "price": 139,
-      "type": "Non-Vegetarian",
-      "desc": "Chicken marinated in yogurt and spices, roasted in a tandoor oven.",
-      "rating": 4.8,
-      "restaurant": {
-        "name": "Rajasthani Rangoli",
-        "address": "456 Udaipur Circle, Udaipur",
-        "timing": "11:30 AM - 10:30 PM",
-        "offers": "Weekend family discounts",
-        "rating": 4.6
-      }
-    },
-      {
-      "id": 12,
-      "dish": "Paneer Butter Masala",
-      "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2020/01/paneer-butter-masala-5.jpg",
-      "price": 129,
-      "type": "Vegetarian",
-      "desc": "Paneer cubes in a creamy, tomato-based butter sauce, spiced with garam masala.",
-      "rating": 4.9,
-      "restaurant": {
-        "name": "Varanasi Vaishnavi",
-        "address": "789 Kashi Vishwanath Gali, Varanasi",
-        "timing": "11:00 AM - 10:00 PM",
-        "offers": "15% off on weekends",
-        "rating": 4.8
-      }
-    },
-    {
-      "id": 13,
-      "dish": "Kadai Chicken",
-      "image": "https://static.toiimg.com/thumb/53523514.cms?imgsize=102389&width=800&height=800",
-      "price": 149,
-      "type": "Non-Vegetarian",
-      "desc": "Chicken stir-fried with bell peppers and onions in a spicy tomato gravy.",
-      "rating": 4.7,
-      "restaurant": {
-        "name": "Patiala Junction",
-        "address": "234 GT Road, Patiala",
-        "timing": "12:00 PM - 11:00 PM",
-        "offers": "Happy Hour: 3:00 PM - 6:00 PM",
-        "rating": 4.6
-      }
-    },
-    {
-      "id": 14,
-      "dish": "Baingan Bharta",
-      "image": "https://www.cookwithmanali.com/wp-content/uploads/2014/08/Baingan-Bharta.jpg",
-      "price": 89,
-      "type": "Vegetarian",
-      "desc": "Smoky mashed eggplant cooked with tomatoes, onions, and spices.",
-      "rating": 4.5,
-      "restaurant": {
-        "name": "Kashmiri Khazana",
-        "address": "567 Dal Lake View, Srinagar",
-        "timing": "11:30 AM - 10:00 PM",
-        "offers": "10% off for dine-in",
-        "rating": 4.7
-      }
-    },
-    {
-      "id": 15,
-      "dish": "Malai Kofta",
-      "image": "https://carveyourcraving.com/wp-content/uploads/2021/09/Best-Malai-Kofta-recipe-500x500.jpg",
-      "price": 119,
-      "type": "Vegetarian",
-      "desc": "Deep-fried vegetable balls in a rich, creamy tomato-based sauce, garnished with cream and nuts.",
-      "rating": 4.8,
-      "restaurant": {
-        "name": "Chandigarh Chaat House",
-        "address": "890 Sector 17, Chandigarh",
-        "timing": "12:00 PM - 10:30 PM",
-        "offers": "Buy 1 Get 1 Free on Tuesdays",
-        "rating": 4.9
-      }
+      "about": "Spice Route offers a delightful journey through North Indian cuisine, blending traditional flavors with a modern twist."
     }
+  },
+  {
+    "id": 2,
+    "dish": "Paneer Tikka",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw_6vMWlXzhljBY1a06413i6E9kS5z7gS4FQ&s",
+    "price": 109,
+    "type": "Vegetarian",
+    "desc": "Cubes of paneer marinated in yogurt and spices, grilled to perfection.",
+    "rating": 4.5,
+    "restaurant": {
+      "name": "Tandoori Nights",
+      "address": "456 Park Avenue, Mumbai",
+      "timing": "11:30 AM - 11:00 PM",
+      "offers": "Free dessert on orders over Rs. 500",
+      "rating": 4.6,
+      "about": "Tandoori Nights is renowned for its authentic tandoori dishes, offering a vibrant dining experience in the heart of Mumbai."
+    }
+  },
+  {
+    "id": 3,
+    "dish": "Chole Bhature",
+    "image": "https://content.jdmagicbox.com/comp/def_content/chole-bhature-outlets/4-chole-bhature-outlets-4-1da3t.jpg",
+    "price": 89,
+    "type": "Vegetarian",
+    "desc": "Spicy chickpea curry served with fluffy, deep-fried bread.",
+    "rating": 4.7,
+    "restaurant": {
+      "name": "Punjabi Tadka",
+      "address": "789 Commercial Road, Chandigarh",
+      "timing": "10:00 AM - 9:30 PM",
+      "offers": "10% off for first-time visitors",
+      "rating": 4.8,
+      "about": "Punjabi Tadka offers an authentic taste of Punjab with its flavorful chole bhature and other Punjabi delicacies."
+    }
+  },
+  {
+    "id": 4,
+    "dish": "Rogan Josh",
+    "image": "https://static.toiimg.com/thumb/53192600.cms?imgsize=418831&width=800&height=800",
+    "price": 159,
+    "type": "Non-Vegetarian",
+    "desc": "A fragrant lamb curry cooked with Kashmiri spices and yogurt.",
+    "rating": 4.6,
+    "restaurant": {
+      "name": "Amritsari Delights",
+      "address": "234 MG Road, Amritsar",
+      "timing": "11:00 AM - 10:30 PM",
+      "offers": "Happy Hour: 2:00 PM - 4:00 PM, Buy 1 Get 1 Free",
+      "rating": 4.5,
+      "about": "Amritsari Delights brings the taste of Amritsar to your plate, specializing in robust flavors of North Indian cuisine."
+    }
+  },
+  {
+    "id": 5,
+    "dish": "Dal Makhani",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAM_sU4h_Iz_foXrcRwo2H0NBHIgFdCv_KbA&s",
+    "price": 99,
+    "type": "Vegetarian",
+    "desc": "Creamy, slow-cooked black lentils enriched with butter and cream.",
+    "rating": 4.8,
+    "restaurant": {
+      "name": "Royal Rasoi",
+      "address": "567 Brigade Road, Bangalore",
+      "timing": "12:30 PM - 11:00 PM",
+      "offers": "Lunch buffet at Rs. 399",
+      "rating": 4.9,
+      "about": "Royal Rasoi offers a royal dining experience with a wide array of vegetarian and non-vegetarian dishes from across India."
+    }
+  },
+  {
+    "id": 6,
+    "dish": "Aloo Paratha",
+    "image": "https://static.toiimg.com/photo/53109843.cms",
+    "price": 79,
+    "type": "Vegetarian",
+    "desc": "Whole wheat bread stuffed with spiced mashed potatoes, served with yogurt and pickle.",
+    "rating": 4.7,
+    "restaurant": {
+      "name": "Delhi Darbar",
+      "address": "890 Connaught Place, Delhi",
+      "timing": "9:00 AM - 10:00 PM",
+      "offers": "Weekend brunch specials",
+      "rating": 4.7,
+      "about": "Delhi Darbar is a landmark in Delhi known for its traditional Indian breakfast and hearty North Indian meals throughout the day."
+    }
+  },
+  {
+    "id": 7,
+    "dish": "Bhindi Masala",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7Fdg9QfZ6crD89IDuZCWQeVuv8DPyG6FsEA&s",
+    "price": 89,
+    "type": "Vegetarian",
+    "desc": "Okra cooked with onions, tomatoes, and aromatic spices.",
+    "rating": 4.6,
+    "restaurant": {
+      "name": "Lucknowi Bawarchi",
+      "address": "345 Hazratganj, Lucknow",
+      "timing": "11:00 AM - 10:30 PM",
+      "offers": "15% off on weekdays",
+      "rating": 4.6,
+      "about": "Lucknowi Bawarchi serves authentic Lucknowi cuisine, showcasing the rich culinary heritage of Uttar Pradesh."
+    }
+  },
+  {
+    "id": 8,
+    "dish": "Rajma Masala",
+    "image": "https://www.cubesnjuliennes.com/wp-content/uploads/2020/06/Authentic-Punjabi-Rajma-Recipe.jpg",
+    "price": 99,
+    "type": "Vegetarian",
+    "desc": "Kidney beans cooked in a tomato-based gravy, seasoned with Indian spices.",
+    "rating": 4.5,
+    "restaurant": {
+      "name": "Jaipur Spice",
+      "address": "678 Pink City Road, Jaipur",
+      "timing": "11:30 AM - 11:00 PM",
+      "offers": "Chef's special thali",
+      "rating": 4.5,
+      "about": "Jaipur Spice brings the flavors of Rajasthan to life with its aromatic Rajasthani dishes and vibrant ambiance."
+    }
+  },
+  {
+    "id": 9,
+    "dish": "Palak Paneer",
+    "image": "https://healthynibblesandbits.com/wp-content/uploads/2020/01/Saag-Paneer-FF.jpg",
+    "price": 119,
+    "type": "Vegetarian",
+    "desc": "Cottage cheese cubes in a creamy spinach sauce, flavored with garlic and ginger.",
+    "rating": 4.6,
+    "restaurant": {
+      "name": "Agra Palace",
+      "address": "901 Taj Ganj, Agra",
+      "timing": "10:00 AM - 9:30 PM",
+      "offers": "Buy 2 main courses, get 1 free appetizer",
+      "rating": 4.7,
+      "about": "Agra Palace offers a taste of Agra's royal Mughlai cuisine, known for its rich flavors and exquisite presentation."
+    }
+  },
+   [
+  {
+    "id": 10,
+    "dish": "Mutton Korma",
+    "image": "https://static.toiimg.com/thumb/52554168.cms?imgsize=572669&width=800&height=800",
+    "price": 169,
+    "type": "Non-Vegetarian",
+    "desc": "Tender mutton pieces simmered in a rich and creamy sauce made with yogurt, nuts, and spices.",
+    "rating": 4.7,
+    "restaurant": {
+      "name": "Mughlai Dastarkhwan",
+      "address": "123 Gomti Nagar, Lucknow",
+      "timing": "12:00 PM - 10:30 PM",
+      "offers": "10% off on online orders",
+      "rating": 4.8,
+      "about": "Mughlai Dastarkhwan offers a regal dining experience with its exquisite Mughlai cuisine, known for its aromatic spices and richness."
+    }
+  },
+  {
+    "id": 11,
+    "dish": "Tandoori Chicken",
+    "image": "https://www.easycookingwithmolly.com/wp-content/uploads/2023/11/air-fryer-whole-tandoori-chicken-3-480x480.jpg",
+    "price": 139,
+    "type": "Non-Vegetarian",
+    "desc": "Chicken marinated in yogurt and spices, roasted in a tandoor oven.",
+    "rating": 4.8,
+    "restaurant": {
+      "name": "Rajasthani Rangoli",
+      "address": "456 Udaipur Circle, Udaipur",
+      "timing": "11:30 AM - 10:30 PM",
+      "offers": "Weekend family discounts",
+      "rating": 4.6,
+      "about": "Rajasthani Rangoli celebrates the flavors of Rajasthan with its traditional tandoori dishes and warm hospitality."
+    }
+  },
+  {
+    "id": 12,
+    "dish": "Paneer Butter Masala",
+    "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2020/01/paneer-butter-masala-5.jpg",
+    "price": 129,
+    "type": "Vegetarian",
+    "desc": "Paneer cubes in a creamy, tomato-based butter sauce, spiced with garam masala.",
+    "rating": 4.9,
+    "restaurant": {
+      "name": "Varanasi Vaishnavi",
+      "address": "789 Kashi Vishwanath Gali, Varanasi",
+      "timing": "11:00 AM - 10:00 PM",
+      "offers": "15% off on weekends",
+      "rating": 4.8,
+      "about": "Varanasi Vaishnavi specializes in authentic Varanasi cuisine, blending traditional flavors with a touch of modern flair."
+    }
+  },
+  {
+    "id": 13,
+    "dish": "Kadai Chicken",
+    "image": "https://static.toiimg.com/thumb/53523514.cms?imgsize=102389&width=800&height=800",
+    "price": 149,
+    "type": "Non-Vegetarian",
+    "desc": "Chicken stir-fried with bell peppers and onions in a spicy tomato gravy.",
+    "rating": 4.7,
+    "restaurant": {
+      "name": "Patiala Junction",
+      "address": "234 GT Road, Patiala",
+      "timing": "12:00 PM - 11:00 PM",
+      "offers": "Happy Hour: 3:00 PM - 6:00 PM",
+      "rating": 4.6,
+      "about": "Patiala Junction brings the robust flavors of Punjab to life with its authentic Punjabi dishes and vibrant ambiance."
+    }
+  },
+  {
+    "id": 14,
+    "dish": "Baingan Bharta",
+    "image": "https://www.cookwithmanali.com/wp-content/uploads/2014/08/Baingan-Bharta.jpg",
+    "price": 89,
+    "type": "Vegetarian",
+    "desc": "Smoky mashed eggplant cooked with tomatoes, onions, and spices.",
+    "rating": 4.5,
+    "restaurant": {
+      "name": "Kashmiri Khazana",
+      "address": "567 Dal Lake View, Srinagar",
+      "timing": "11:30 AM - 10:00 PM",
+      "offers": "10% off for dine-in",
+      "rating": 4.7,
+      "about": "Kashmiri Khazana offers the flavors of Kashmiri cuisine, known for its rich use of spices and unique preparation methods."
+    }
+  },
+  {
+    "id": 15,
+    "dish": "Malai Kofta",
+    "image": "https://carveyourcraving.com/wp-content/uploads/2021/09/Best-Malai-Kofta-recipe-500x500.jpg",
+    "price": 119,
+    "type": "Vegetarian",
+    "desc": "Deep-fried vegetable balls in a rich, creamy tomato-based sauce, garnished with cream and nuts.",
+    "rating": 4.8,
+    "restaurant": {
+      "name": "Chandigarh Chaat House",
+      "address": "890 Sector 17, Chandigarh",
+      "timing": "12:00 PM - 10:30 PM",
+      "offers": "Buy 1 Get 1 Free on Tuesdays",
+      "rating": 4.9,
+      "about": "Chandigarh Chaat House is famous for its delightful chaats and delectable North Indian cuisine, offering a lively dining experience."
+    }
+  }
+]
+
     
     ]
 }
