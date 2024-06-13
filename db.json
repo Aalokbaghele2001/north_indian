@@ -236,23 +236,6 @@
       "offers": "10% off for dine-in",
       "rating": 4.7,
       "about": "Kashmiri Khazana offers the flavors of Kashmiri cuisine, known for its rich use of spices and unique preparation methods."
-    }},
-  {
-    "id": 15,
-    "dish": "Malai Kofta",
-    "image": "https://carveyourcraving.com/wp-content/uploads/2021/09/Best-Malai-Kofta-recipe-500x500.jpg",
-    "price": 119,
-    "type": "Vegetarian",
-    "desc": "Deep-fried vegetable balls in a rich, creamy tomato-based sauce, garnished with cream and nuts.",
-    "rating": 4.8,
-    "category": "North Indian",
-    "restaurant": {
-      "name": "Chandigarh Chaat House",
-      "address": "890 Sector 17, Chandigarh",
-      "timing": "12:00 PM - 10:30 PM",
-      "offers": "Buy 1 Get 1 Free on Tuesdays",
-      "rating": 4.9,
-      "about": "Chandigarh Chaat House is famous for its delightful chaats and delectable North Indian cuisine, offering a lively dining experience."
     }}
   ]
 }
