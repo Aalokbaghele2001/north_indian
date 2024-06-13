@@ -8,8 +8,13 @@
       "type": "Non-Vegetarian",
       "desc": "A rich, creamy curry made with marinated chicken, cooked in a buttery tomato sauce.",
       "rating": 4.8,
-       "name": "Tandoori Nights",
-      "address": "456 Park Avenue, Mumbai"
+      "restaurant": {
+        "name": "Spice Route",
+        "address": "123 Main Street, New Delhi",
+        "timing": "12:00 PM - 10:00 PM",
+        "offers": "20% off on Tuesdays",
+        "rating": 4.7
+      }
     },
     {
       "id": 2,
@@ -19,8 +24,13 @@
       "type": "Vegetarian",
       "desc": "Cubes of paneer marinated in yogurt and spices, grilled to perfection.",
       "rating": 4.5,
-      "name": "Spice Route",
-      "address": "123 Main Street, New Delhi"
+      "restaurant": {
+        "name": "Tandoori Nights",
+        "address": "456 Park Avenue, Mumbai",
+        "timing": "11:30 AM - 11:00 PM",
+        "offers": "Free dessert on orders over Rs. 500",
+        "rating": 4.6
+      }
     },
     {
       "id": 3,
@@ -30,8 +40,13 @@
       "type": "Vegetarian",
       "desc": "Spicy chickpea curry served with fluffy, deep-fried bread.",
       "rating": 4.7,
-      "name": "Punjabi Tadka",
-      "address": "789 Commercial Road, Chandigarh"
+      "restaurant": {
+        "name": "Punjabi Tadka",
+        "address": "789 Commercial Road, Chandigarh",
+        "timing": "10:00 AM - 9:30 PM",
+        "offers": "10% off for first-time visitors",
+        "rating": 4.8
+      }
     },
     {
       "id": 4,
@@ -41,8 +56,13 @@
       "type": "Non-Vegetarian",
       "desc": "A fragrant lamb curry cooked with Kashmiri spices and yogurt.",
       "rating": 4.6,
-       "name": "Amritsari Delights",
-      "address": "234 MG Road, Amritsar"
+      "restaurant": {
+        "name": "Amritsari Delights",
+        "address": "234 MG Road, Amritsar",
+        "timing": "11:00 AM - 10:30 PM",
+        "offers": "Happy Hour: 2:00 PM - 4:00 PM, Buy 1 Get 1 Free",
+        "rating": 4.5
+      }
     },
     {
       "id": 5,
@@ -52,8 +72,13 @@
       "type": "Vegetarian",
       "desc": "Creamy, slow-cooked black lentils enriched with butter and cream.",
       "rating": 4.8,
-       "name": "Royal Rasoi",
-      "address": "567 Brigade Road, Bangalore"
+      "restaurant": {
+        "name": "Royal Rasoi",
+        "address": "567 Brigade Road, Bangalore",
+        "timing": "12:30 PM - 11:00 PM",
+        "offers": "Lunch buffet at Rs. 399",
+        "rating": 4.9
+      }
     },
     {
       "id": 6,
@@ -63,8 +88,13 @@
       "type": "Vegetarian",
       "desc": "Whole wheat bread stuffed with spiced mashed potatoes, served with yogurt and pickle.",
       "rating": 4.7,
-       "name": "Delhi Darbar",
-      "address": "890 Connaught Place, Delhi"
+      "restaurant": {
+        "name": "Delhi Darbar",
+        "address": "890 Connaught Place, Delhi",
+        "timing": "9:00 AM - 10:00 PM",
+        "offers": "Weekend brunch specials",
+        "rating": 4.7
+      }
     },
     {
       "id": 7,
@@ -74,8 +104,13 @@
       "type": "Vegetarian",
       "desc": "Okra cooked with onions, tomatoes, and aromatic spices.",
       "rating": 4.6,
-      "name": "Lucknowi Bawarchi",
-      "address": "345 Hazratganj, Lucknow"
+      "restaurant": {
+        "name": "Lucknowi Bawarchi",
+        "address": "345 Hazratganj, Lucknow",
+        "timing": "11:00 AM - 10:30 PM",
+        "offers": "15% off on weekdays",
+        "rating": 4.6
+      }
     },
     {
       "id": 8,
@@ -85,8 +120,13 @@
       "type": "Vegetarian",
       "desc": "Kidney beans cooked in a tomato-based gravy, seasoned with Indian spices.",
       "rating": 4.5,
-          "name": "Jaipur Spice",
-      "address": "678 Pink City Road, Jaipur"
+      "restaurant": {
+        "name": "Jaipur Spice",
+        "address": "678 Pink City Road, Jaipur",
+        "timing": "11:30 AM - 11:00 PM",
+        "offers": "Chef's special thali",
+        "rating": 4.5
+      }
     },
     {
       "id": 9,
@@ -96,8 +136,13 @@
       "type": "Vegetarian",
       "desc": "Cottage cheese cubes in a creamy spinach sauce, flavored with garlic and ginger.",
       "rating": 4.6,
-       "name": "Agra Palace",
-      "address": "901 Taj Ganj, Agra"
+      "restaurant": {
+        "name": "Agra Palace",
+        "address": "901 Taj Ganj, Agra",
+        "timing": "10:00 AM - 9:30 PM",
+        "offers": "Buy 2 main courses, get 1 free appetizer",
+        "rating": 4.7
+      }
     },
     {
       "id": 10,
@@ -107,8 +152,13 @@
       "type": "Non-Vegetarian",
       "desc": "Tender mutton pieces simmered in a rich and creamy sauce made with yogurt, nuts, and spices.",
       "rating": 4.7,
-       "name": "Mughlai Dastarkhwan",
-      "address": "123 Gomti Nagar, Lucknow"
+      "restaurant": {
+        "name": "Mughlai Dastarkhwan",
+        "address": "123 Gomti Nagar, Lucknow",
+        "timing": "12:00 PM - 10:30 PM",
+        "offers": "10% off on online orders",
+        "rating": 4.8
+      }
     },
     {
       "id": 11,
@@ -118,52 +168,15 @@
       "type": "Non-Vegetarian",
       "desc": "Chicken marinated in yogurt and spices, roasted in a tandoor oven.",
       "rating": 4.8,
-       "name": "Rajasthani Rangoli",
-      "address": "456 Udaipur Circle, Udaipur"
+      "restaurant": {
+        "name": "Rajasthani Rangoli",
+        "address": "456 Udaipur Circle, Udaipur",
+        "timing": "11:30 AM - 10:30 PM",
+        "offers": "Weekend family discounts",
+        "rating": 4.6
+      }
     },
     {
       "id": 12,
       "dish": "Paneer Butter Masala",
-      "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2020/01/paneer-butter-masala-5.jpg",
-      "price": 129,
-      "type": "Vegetarian",
-      "desc": "Paneer cubes in a creamy, tomato-based butter sauce, spiced with garam masala.",
-      "rating": 4.9,
-        "name": "Varanasi Vaishnavi",
-      "address": "789 Kashi Vishwanath Gali, Varanasi"
-    },
-    {
-      "id": 13,
-      "dish": "Kadai Chicken",
-      "image": "https://static.toiimg.com/thumb/53523514.cms?imgsize=102389&width=800&height=800",
-      "price": 149,
-      "type": "Non-Vegetarian",
-      "desc": "Chicken stir-fried with bell peppers and onions in a spicy tomato gravy.",
-      "rating": 4.7,
-         "name": "Patiala Junction",
-      "address": "234 GT Road, Patiala"
-    },
-    {
-      "id": 14,
-      "dish": "Baingan Bharta",
-      "image": "https://www.cookwithmanali.com/wp-content/uploads/2014/08/Baingan-Bharta.jpg",
-      "price": 89,
-      "type": "Vegetarian",
-      "desc": "Smoky mashed eggplant cooked with tomatoes, onions, and spices.",
-      "rating": 4.5,
-      "name": "Kashmiri Khazana",
-      "address": "567 Dal Lake View, Srinagar"
-    },
-    {
-      "id": 15,
-      "dish": "Malai Kofta",
-      "image": "https://carveyourcraving.com/wp-content/uploads/2021/09/Best-Malai-Kofta-recipe-500x500.jpg",
-      "price": 119,
-      "type": "Vegetarian",
-      "desc": "Deep-fried vegetable balls in a rich, creamy tomato-based sauce, garnished with cream and nuts.",
-      "rating": 4.8,
-       "name": "Chandigarh Chaat House",
-      "address": "890 Sector 17, Chandigarh"
-    }
-  ]
-}
+      "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2020/01/paneer-butter-masala-5
