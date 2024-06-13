@@ -1,6 +1,5 @@
 {
-  "north_indian": [
-     {
+  "north_indian": [{
     "id": 1,
     "dish": "Butter Chicken",
     "image": "https://images.immediate.co.uk/production/volatile/sites/30/2021/02/butter-chicken-ac2ff98.jpg?quality=90&resize=440,400",
@@ -15,8 +14,7 @@
       "offers": "20% off on Tuesdays",
       "rating": 4.7,
       "about": "Spice Route offers a delightful journey through North Indian cuisine, blending traditional flavors with a modern twist."
-    }
-  },
+    }},
   {
     "id": 2,
     "dish": "Paneer Tikka",
@@ -32,8 +30,7 @@
       "offers": "Free dessert on orders over Rs. 500",
       "rating": 4.6,
       "about": "Tandoori Nights is renowned for its authentic tandoori dishes, offering a vibrant dining experience in the heart of Mumbai."
-    }
-  },
+    }},
   {
     "id": 3,
     "dish": "Chole Bhature",
@@ -49,8 +46,7 @@
       "offers": "10% off for first-time visitors",
       "rating": 4.8,
       "about": "Punjabi Tadka offers an authentic taste of Punjab with its flavorful chole bhature and other Punjabi delicacies."
-    }
-  },
+    }},
   {
     "id": 4,
     "dish": "Rogan Josh",
@@ -66,8 +62,7 @@
       "offers": "Happy Hour: 2:00 PM - 4:00 PM, Buy 1 Get 1 Free",
       "rating": 4.5,
       "about": "Amritsari Delights brings the taste of Amritsar to your plate, specializing in robust flavors of North Indian cuisine."
-    }
-  },
+    }},
   {
     "id": 5,
     "dish": "Dal Makhani",
@@ -83,8 +78,7 @@
       "offers": "Lunch buffet at Rs. 399",
       "rating": 4.9,
       "about": "Royal Rasoi offers a royal dining experience with a wide array of vegetarian and non-vegetarian dishes from across India."
-    }
-  },
+    }},
   {
     "id": 6,
     "dish": "Aloo Paratha",
@@ -100,8 +94,7 @@
       "offers": "Weekend brunch specials",
       "rating": 4.7,
       "about": "Delhi Darbar is a landmark in Delhi known for its traditional Indian breakfast and hearty North Indian meals throughout the day."
-    }
-  },
+    }},
   {
     "id": 7,
     "dish": "Bhindi Masala",
@@ -117,8 +110,7 @@
       "offers": "15% off on weekdays",
       "rating": 4.6,
       "about": "Lucknowi Bawarchi serves authentic Lucknowi cuisine, showcasing the rich culinary heritage of Uttar Pradesh."
-    }
-  },
+    }},
   {
     "id": 8,
     "dish": "Rajma Masala",
@@ -134,8 +126,7 @@
       "offers": "Chef's special thali",
       "rating": 4.5,
       "about": "Jaipur Spice brings the flavors of Rajasthan to life with its aromatic Rajasthani dishes and vibrant ambiance."
-    }
-  },
+    }},
   {
     "id": 9,
     "dish": "Palak Paneer",
@@ -151,9 +142,7 @@
       "offers": "Buy 2 main courses, get 1 free appetizer",
       "rating": 4.7,
       "about": "Agra Palace offers a taste of Agra's royal Mughlai cuisine, known for its rich flavors and exquisite presentation."
-    }
-  },
-   [
+    }},
   {
     "id": 10,
     "dish": "Mutton Korma",
