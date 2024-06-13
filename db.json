@@ -7,6 +7,7 @@
     "type": "Non-Vegetarian",
     "desc": "A rich, creamy curry made with marinated chicken, cooked in a buttery tomato sauce.",
     "rating": 4.8,
+    "category": "North Indian",
     "restaurant": {
       "name": "Spice Route",
       "address": "123 Main Street, New Delhi",
@@ -23,6 +24,7 @@
     "type": "Vegetarian",
     "desc": "Cubes of paneer marinated in yogurt and spices, grilled to perfection.",
     "rating": 4.5,
+    "category": "North Indian",
     "restaurant": {
       "name": "Tandoori Nights",
       "address": "456 Park Avenue, Mumbai",
@@ -39,6 +41,7 @@
     "type": "Vegetarian",
     "desc": "Spicy chickpea curry served with fluffy, deep-fried bread.",
     "rating": 4.7,
+    "category": "North Indian",
     "restaurant": {
       "name": "Punjabi Tadka",
       "address": "789 Commercial Road, Chandigarh",
@@ -55,6 +58,7 @@
     "type": "Non-Vegetarian",
     "desc": "A fragrant lamb curry cooked with Kashmiri spices and yogurt.",
     "rating": 4.6,
+    "category": "North Indian",
     "restaurant": {
       "name": "Amritsari Delights",
       "address": "234 MG Road, Amritsar",
@@ -71,6 +75,7 @@
     "type": "Vegetarian",
     "desc": "Creamy, slow-cooked black lentils enriched with butter and cream.",
     "rating": 4.8,
+    "category": "North Indian",
     "restaurant": {
       "name": "Royal Rasoi",
       "address": "567 Brigade Road, Bangalore",
@@ -87,6 +92,7 @@
     "type": "Vegetarian",
     "desc": "Whole wheat bread stuffed with spiced mashed potatoes, served with yogurt and pickle.",
     "rating": 4.7,
+    "category": "North Indian",
     "restaurant": {
       "name": "Delhi Darbar",
       "address": "890 Connaught Place, Delhi",
@@ -103,6 +109,7 @@
     "type": "Vegetarian",
     "desc": "Okra cooked with onions, tomatoes, and aromatic spices.",
     "rating": 4.6,
+    "category": "North Indian",
     "restaurant": {
       "name": "Lucknowi Bawarchi",
       "address": "345 Hazratganj, Lucknow",
@@ -119,6 +126,7 @@
     "type": "Vegetarian",
     "desc": "Kidney beans cooked in a tomato-based gravy, seasoned with Indian spices.",
     "rating": 4.5,
+    "category": "North Indian",
     "restaurant": {
       "name": "Jaipur Spice",
       "address": "678 Pink City Road, Jaipur",
@@ -135,6 +143,7 @@
     "type": "Vegetarian",
     "desc": "Cottage cheese cubes in a creamy spinach sauce, flavored with garlic and ginger.",
     "rating": 4.6,
+    "category": "North Indian",
     "restaurant": {
       "name": "Agra Palace",
       "address": "901 Taj Ganj, Agra",
@@ -151,6 +160,7 @@
     "type": "Non-Vegetarian",
     "desc": "Tender mutton pieces simmered in a rich and creamy sauce made with yogurt, nuts, and spices.",
     "rating": 4.7,
+    "category": "North Indian",
     "restaurant": {
       "name": "Mughlai Dastarkhwan",
       "address": "123 Gomti Nagar, Lucknow",
@@ -158,8 +168,7 @@
       "offers": "10% off on online orders",
       "rating": 4.8,
       "about": "Mughlai Dastarkhwan offers a regal dining experience with its exquisite Mughlai cuisine, known for its aromatic spices and richness."
-    }
-  },
+    }},
   {
     "id": 11,
     "dish": "Tandoori Chicken",
@@ -168,6 +177,7 @@
     "type": "Non-Vegetarian",
     "desc": "Chicken marinated in yogurt and spices, roasted in a tandoor oven.",
     "rating": 4.8,
+    "category": "North Indian",
     "restaurant": {
       "name": "Rajasthani Rangoli",
       "address": "456 Udaipur Circle, Udaipur",
@@ -175,8 +185,7 @@
       "offers": "Weekend family discounts",
       "rating": 4.6,
       "about": "Rajasthani Rangoli celebrates the flavors of Rajasthan with its traditional tandoori dishes and warm hospitality."
-    }
-  },
+    }},
   {
     "id": 12,
     "dish": "Paneer Butter Masala",
@@ -185,6 +194,7 @@
     "type": "Vegetarian",
     "desc": "Paneer cubes in a creamy, tomato-based butter sauce, spiced with garam masala.",
     "rating": 4.9,
+    "category": "North Indian",
     "restaurant": {
       "name": "Varanasi Vaishnavi",
       "address": "789 Kashi Vishwanath Gali, Varanasi",
@@ -192,8 +202,7 @@
       "offers": "15% off on weekends",
       "rating": 4.8,
       "about": "Varanasi Vaishnavi specializes in authentic Varanasi cuisine, blending traditional flavors with a touch of modern flair."
-    }
-  },
+    }},
   {
     "id": 13,
     "dish": "Kadai Chicken",
@@ -202,6 +211,7 @@
     "type": "Non-Vegetarian",
     "desc": "Chicken stir-fried with bell peppers and onions in a spicy tomato gravy.",
     "rating": 4.7,
+    "category": "North Indian",
     "restaurant": {
       "name": "Patiala Junction",
       "address": "234 GT Road, Patiala",
@@ -209,8 +219,7 @@
       "offers": "Happy Hour: 3:00 PM - 6:00 PM",
       "rating": 4.6,
       "about": "Patiala Junction brings the robust flavors of Punjab to life with its authentic Punjabi dishes and vibrant ambiance."
-    }
-  },
+    }},
   {
     "id": 14,
     "dish": "Baingan Bharta",
@@ -219,6 +228,7 @@
     "type": "Vegetarian",
     "desc": "Smoky mashed eggplant cooked with tomatoes, onions, and spices.",
     "rating": 4.5,
+    "category": "North Indian",
     "restaurant": {
       "name": "Kashmiri Khazana",
       "address": "567 Dal Lake View, Srinagar",
@@ -226,8 +236,7 @@
       "offers": "10% off for dine-in",
       "rating": 4.7,
       "about": "Kashmiri Khazana offers the flavors of Kashmiri cuisine, known for its rich use of spices and unique preparation methods."
-    }
-  },
+    }},
   {
     "id": 15,
     "dish": "Malai Kofta",
@@ -236,6 +245,7 @@
     "type": "Vegetarian",
     "desc": "Deep-fried vegetable balls in a rich, creamy tomato-based sauce, garnished with cream and nuts.",
     "rating": 4.8,
+    "category": "North Indian",
     "restaurant": {
       "name": "Chandigarh Chaat House",
       "address": "890 Sector 17, Chandigarh",
@@ -243,9 +253,6 @@
       "offers": "Buy 1 Get 1 Free on Tuesdays",
       "rating": 4.9,
       "about": "Chandigarh Chaat House is famous for its delightful chaats and delectable North Indian cuisine, offering a lively dining experience."
-    }
-  }
-   ]
-    }
-    
- 
+    }}
+  ]
+}
