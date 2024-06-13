@@ -174,6 +174,70 @@
         "timing": "11:30 AM - 10:30 PM",
         "offers": "Weekend family discounts",
         "rating": 4.6
+      },
+      {
+      "id": 12,
+      "dish": "Paneer Butter Masala",
+      "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2020/01/paneer-butter-masala-5.jpg",
+      "price": 129,
+      "type": "Vegetarian",
+      "desc": "Paneer cubes in a creamy, tomato-based butter sauce, spiced with garam masala.",
+      "rating": 4.9,
+      "restaurant": {
+        "name": "Varanasi Vaishnavi",
+        "address": "789 Kashi Vishwanath Gali, Varanasi",
+        "timing": "11:00 AM - 10:00 PM",
+        "offers": "15% off on weekends",
+        "rating": 4.8
       }
+    },
+    {
+      "id": 13,
+      "dish": "Kadai Chicken",
+      "image": "https://static.toiimg.com/thumb/53523514.cms?imgsize=102389&width=800&height=800",
+      "price": 149,
+      "type": "Non-Vegetarian",
+      "desc": "Chicken stir-fried with bell peppers and onions in a spicy tomato gravy.",
+      "rating": 4.7,
+      "restaurant": {
+        "name": "Patiala Junction",
+        "address": "234 GT Road, Patiala",
+        "timing": "12:00 PM - 11:00 PM",
+        "offers": "Happy Hour: 3:00 PM - 6:00 PM",
+        "rating": 4.6
+      }
+    },
+    {
+      "id": 14,
+      "dish": "Baingan Bharta",
+      "image": "https://www.cookwithmanali.com/wp-content/uploads/2014/08/Baingan-Bharta.jpg",
+      "price": 89,
+      "type": "Vegetarian",
+      "desc": "Smoky mashed eggplant cooked with tomatoes, onions, and spices.",
+      "rating": 4.5,
+      "restaurant": {
+        "name": "Kashmiri Khazana",
+        "address": "567 Dal Lake View, Srinagar",
+        "timing": "11:30 AM - 10:00 PM",
+        "offers": "10% off for dine-in",
+        "rating": 4.7
+      }
+    },
+    {
+      "id": 15,
+      "dish": "Malai Kofta",
+      "image": "https://carveyourcraving.com/wp-content/uploads/2021/09/Best-Malai-Kofta-recipe-500x500.jpg",
+      "price": 119,
+      "type": "Vegetarian",
+      "desc": "Deep-fried vegetable balls in a rich, creamy tomato-based sauce, garnished with cream and nuts.",
+      "rating": 4.8,
+      "restaurant": {
+        "name": "Chandigarh Chaat House",
+        "address": "890 Sector 17, Chandigarh",
+        "timing": "12:00 PM - 10:30 PM",
+        "offers": "Buy 1 Get 1 Free on Tuesdays",
+        "rating": 4.9
+      }
+    }
     }]
 }
