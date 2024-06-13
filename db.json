@@ -1,0 +1,138 @@
+{ north_indian:[
+  {
+    "id": 1,
+    "name": "Butter Chicken",
+    "image": "https://example.com/butter_chicken.jpg",
+    "price": 12.99,
+    "type": "Non-Vegetarian",
+    "desc": "A rich, creamy curry made with marinated chicken, cooked in a buttery tomato sauce.",
+    "rating": 4.8
+  },
+  {
+    "id": 2,
+    "name": "Paneer Tikka",
+    "image": "https://example.com/paneer_tikka.jpg",
+    "price": 10.99,
+    "type": "Vegetarian",
+    "desc": "Cubes of paneer marinated in yogurt and spices, grilled to perfection.",
+    "rating": 4.5
+  },
+  {
+    "id": 3,
+    "name": "Chole Bhature",
+    "image": "https://example.com/chole_bhature.jpg",
+    "price": 8.99,
+    "type": "Vegetarian",
+    "desc": "Spicy chickpea curry served with fluffy, deep-fried bread.",
+    "rating": 4.7
+  },
+  {
+    "id": 4,
+    "name": "Rogan Josh",
+    "image": "https://example.com/rogan_josh.jpg",
+    "price": 15.99,
+    "type": "Non-Vegetarian",
+    "desc": "A fragrant lamb curry cooked with Kashmiri spices and yogurt.",
+    "rating": 4.6
+  },
+  {
+    "id": 5,
+    "name": "Dal Makhani",
+    "image": "https://example.com/dal_makhani.jpg",
+    "price": 9.49,
+    "type": "Vegetarian",
+    "desc": "Creamy, slow-cooked black lentils enriched with butter and cream.",
+    "rating": 4.8
+  },
+  {
+    "id": 6,
+    "name": "Aloo Paratha",
+    "image": "https://example.com/aloo_paratha.jpg",
+    "price": 7.99,
+    "type": "Vegetarian",
+    "desc": "Whole wheat bread stuffed with spiced mashed potatoes, served with yogurt and pickle.",
+    "rating": 4.7
+  },
+  {
+    "id": 7,
+    "name": "Bhindi Masala",
+    "image": "https://example.com/bhindi_masala.jpg",
+    "price": 8.49,
+    "type": "Vegetarian",
+    "desc": "Okra cooked with onions, tomatoes, and aromatic spices.",
+    "rating": 4.6
+  },
+  {
+    "id": 8,
+    "name": "Rajma Masala",
+    "image": "https://example.com/rajma_masala.jpg",
+    "price": 9.99,
+    "type": "Vegetarian",
+    "desc": "Kidney beans cooked in a tomato-based gravy, seasoned with Indian spices.",
+    "rating": 4.5
+  },
+  {
+    "id": 9,
+    "name": "Palak Paneer",
+    "image": "https://example.com/palak_paneer.jpg",
+    "price": 11.49,
+    "type": "Vegetarian",
+    "desc": "Cottage cheese cubes in a creamy spinach sauce, flavored with garlic and ginger.",
+    "rating": 4.6
+  },
+  {
+    "id": 10,
+    "name": "Mutton Korma",
+    "image": "https://example.com/mutton_korma.jpg",
+    "price": 16.49,
+    "type": "Non-Vegetarian",
+    "desc": "Tender mutton pieces simmered in a rich and creamy sauce made with yogurt, nuts, and spices.",
+    "rating": 4.7
+  },
+  {
+    "id": 11,
+    "name": "Tandoori Chicken",
+    "image": "https://example.com/tandoori_chicken.jpg",
+    "price": 13.49,
+    "type": "Non-Vegetarian",
+    "desc": "Chicken marinated in yogurt and spices, roasted in a tandoor oven.",
+    "rating": 4.8
+  },
+  {
+    "id": 12,
+    "name": "Paneer Butter Masala",
+    "image": "https://example.com/paneer_butter_masala.jpg",
+    "price": 12.49,
+    "type": "Vegetarian",
+    "desc": "Paneer cubes in a creamy, tomato-based butter sauce, spiced with garam masala.",
+    "rating": 4.9
+  },
+  {
+    "id": 13,
+    "name": "Kadai Chicken",
+    "image": "https://example.com/kadai_chicken.jpg",
+    "price": 14.99,
+    "type": "Non-Vegetarian",
+    "desc": "Chicken stir-fried with bell peppers and onions in a spicy tomato gravy.",
+    "rating": 4.7
+  },
+  {
+    "id": 14,
+    "name": "Baingan Bharta",
+    "image": "https://example.com/baingan_bharta.jpg",
+    "price": 8.99,
+    "type": "Vegetarian",
+    "desc": "Smoky mashed eggplant cooked with tomatoes, onions, and spices.",
+    "rating": 4.5
+  },
+  {
+    "id": 15,
+    "name": "Gulab Jamun",
+    "image": "https://example.com/gulab_jamun.jpg",
+    "price": 6.49,
+    "type": "Vegetarian",
+    "desc": "Deep-fried dough balls soaked in a sweet, fragrant sugar syrup flavored with rose water.",
+    "rating": 4.9
+  }
+]
+}
