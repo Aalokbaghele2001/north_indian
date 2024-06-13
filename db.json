@@ -273,7 +273,7 @@
       "about": "Chandigarh Chaat House is famous for its delightful chaats and delectable North Indian cuisine, offering a lively dining experience."
     }
   },
-      {
+     {
     "id": 17,
     "dish": "Malai Kofta",
     "image": "https://carveyourcraving.com/wp-content/uploads/2021/09/Best-Malai-Kofta-recipe-500x500.jpg",
@@ -290,5 +290,6 @@
       "about": "Chandigarh Chaat House is famous for its delightful chaats and delectable North Indian cuisine, offering a lively dining experience."
     }
   }
-    ]
-}
+   ]
+    }
+ 
