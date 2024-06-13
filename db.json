@@ -174,7 +174,8 @@
         "timing": "11:30 AM - 10:30 PM",
         "offers": "Weekend family discounts",
         "rating": 4.6
-      },
+      }
+    },
       {
       "id": 12,
       "dish": "Paneer Butter Masala",
@@ -239,6 +240,6 @@
         "rating": 4.9
       }
     }
-    }
+    
     ]
 }
